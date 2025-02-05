@@ -18,3 +18,11 @@ Pipeline é os passos que voce automatiza, o makefile é um exemplo de pipeline
  
 
 
+git switch -c build = o git switch muda de branch se passar o -c e um nome ele cria uma branch e ja muda para essa nova branch
+
+git add ./github = addiciona as mudanças
+
+git commit -m "" = faz o commit e a flag -m deixa um comentario
+
+git push origin build = faz o push para o repositorio
+
